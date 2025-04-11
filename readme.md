@@ -1,6 +1,8 @@
-# Aquitaine Studio Preset Catalog
+# Aquitaine Studio
 
-Welcome to the **Aquitaine Studio Preset Catalog**, a meticulously curated collection of ReShade presets designed to elevate your visual experience in FINAL FANTASY XIV. Whether you're a gamer seeking immersive gameplay, a photographer capturing stunning in-game moments, or a creative artist exploring cinematic aesthetics, this catalog offers a diverse range of presets tailored to your needs. Dive into categories like QuickStart for beginners, Gameplay for optimized performance, Movie Night for cinematic visuals, Studio for professional-grade photography, and True Hue for celebrating diverse character aesthetics.
+A curated collection of ReShade presets.
+
+---
 
 ## QuickStart Collection
 
@@ -72,16 +74,3 @@ Celebrates and enhances darker skin tones with warm or gray adjustments.
 | Natural Series    | Accurate color representation with minimal stylization. |
 | Dramatic Series   | High-contrast and shadow-focused effects.            |
 | Artistic Series   | Bold, colorful presets for creative expression.      |
-
-## Usage Recommendations
-
-- **New Users**: Start with the QuickStart collection.
-- **Gameplay**: Use the Gameplay collection for optimized performance.
-- **Screenshots**: Explore Movie Night and Studio collections for dramatic visuals.
-- **Purists**: True Hue offers minimal adjustments respecting original aesthetics.
-
-## Technical Notes
-
-- Proper shader ordering ensures optimal results.
-- Depth-aware effects like qMXAO and ADOF are used effectively.
-- UI protection is implemented with FFKeepUI/FFRestoreUI.
