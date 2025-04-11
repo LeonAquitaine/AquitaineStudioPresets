@@ -4,7 +4,7 @@ A curated collection of ReShade presets.
 
 ---
 
-## QuickStart Collection
+## QuickStart Set
 
 Designed for new users and those learning ReShade basics.
 
@@ -21,7 +21,7 @@ Designed for new users and those learning ReShade basics.
 | Learn - Film Look | Illustrates cinematic film-inspired color grading techniques. |
 | Learn - Portrait Enhancement | Combines techniques for professional portrait-style screenshots. |
 
-## Gameplay Collection
+## Gameplay Set
 
 Optimized for in-game performance and visuals.
 
@@ -39,7 +39,7 @@ Optimized for in-game performance and visuals.
 | Weather           | Effects for rain, fog, and other weather conditions. |
 | Time of Day       | Adjustments for golden hour and nighttime scenes.    |
 
-## Movie Night Collection
+## Movie Night Set
 
 Cinematic presets for dramatic screenshots and cutscenes.
 
@@ -52,7 +52,7 @@ Cinematic presets for dramatic screenshots and cutscenes.
 | Neon Series       | Vibrant neon tones for futuristic themes.            |
 | Poster Series     | Styles inspired by promotional posters.              |
 
-## Studio Collection
+## Studio Set
 
 Photography-focused presets for character portraits and landscapes.
 
@@ -62,7 +62,7 @@ Photography-focused presets for character portraits and landscapes.
 | Landscape Series  | Enhances natural and dramatic scenery.               |
 | Portrait Series   | Focused on lighting and tone for character shots.    |
 
-## True Hue Collection
+## True Hue Set
 
 Celebrates and enhances darker skin tones with warm or gray adjustments.
 
