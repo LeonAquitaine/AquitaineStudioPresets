@@ -64,7 +64,7 @@ Photography-focused presets for character portraits and landscapes.
 
 ## True Hue Set
 
-Celebrates and enhances darker skin tones with warm or gray adjustments.
+Enhances darker skin tones with warm or gray adjustments.
 
 | Preset Name       | Characteristics                                      |
 |-------------------|------------------------------------------------------|
