@@ -1,8 +1,10 @@
-# Aquitaine Studio Preset Catalog
+# Aquitaine Studio
 
-Welcome to the **Aquitaine Studio Preset Catalog**, a meticulously curated collection of ReShade presets designed to elevate your visual experience in FINAL FANTASY XIV. Whether you're a gamer seeking immersive gameplay, a photographer capturing stunning in-game moments, or a creative artist exploring cinematic aesthetics, this catalog offers a diverse range of presets tailored to your needs. Dive into categories like QuickStart for beginners, Gameplay for optimized performance, Movie Night for cinematic visuals, Studio for professional-grade photography, and True Hue for celebrating diverse character aesthetics.
+A curated collection of ReShade presets.
 
-## QuickStart Collection
+---
+
+## QuickStart Set
 
 Designed for new users and those learning ReShade basics.
 
@@ -19,7 +21,7 @@ Designed for new users and those learning ReShade basics.
 | Learn - Film Look | Illustrates cinematic film-inspired color grading techniques. |
 | Learn - Portrait Enhancement | Combines techniques for professional portrait-style screenshots. |
 
-## Gameplay Collection
+## Gameplay Set
 
 Optimized for in-game performance and visuals.
 
@@ -37,7 +39,7 @@ Optimized for in-game performance and visuals.
 | Weather           | Effects for rain, fog, and other weather conditions. |
 | Time of Day       | Adjustments for golden hour and nighttime scenes.    |
 
-## Movie Night Collection
+## Movie Night Set
 
 Cinematic presets for dramatic screenshots and cutscenes.
 
@@ -50,7 +52,7 @@ Cinematic presets for dramatic screenshots and cutscenes.
 | Neon Series       | Vibrant neon tones for futuristic themes.            |
 | Poster Series     | Styles inspired by promotional posters.              |
 
-## Studio Collection
+## Studio Set
 
 Photography-focused presets for character portraits and landscapes.
 
@@ -60,9 +62,9 @@ Photography-focused presets for character portraits and landscapes.
 | Landscape Series  | Enhances natural and dramatic scenery.               |
 | Portrait Series   | Focused on lighting and tone for character shots.    |
 
-## True Hue Collection
+## True Hue Set
 
-Celebrates and enhances darker skin tones with warm or gray adjustments.
+Enhances darker skin tones with warm or gray adjustments.
 
 | Preset Name       | Characteristics                                      |
 |-------------------|------------------------------------------------------|
@@ -72,16 +74,3 @@ Celebrates and enhances darker skin tones with warm or gray adjustments.
 | Natural Series    | Accurate color representation with minimal stylization. |
 | Dramatic Series   | High-contrast and shadow-focused effects.            |
 | Artistic Series   | Bold, colorful presets for creative expression.      |
-
-## Usage Recommendations
-
-- **New Users**: Start with the QuickStart collection.
-- **Gameplay**: Use the Gameplay collection for optimized performance.
-- **Screenshots**: Explore Movie Night and Studio collections for dramatic visuals.
-- **Purists**: True Hue offers minimal adjustments respecting original aesthetics.
-
-## Technical Notes
-
-- Proper shader ordering ensures optimal results.
-- Depth-aware effects like qMXAO and ADOF are used effectively.
-- UI protection is implemented with FFKeepUI/FFRestoreUI.
