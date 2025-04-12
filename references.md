@@ -8,15 +8,15 @@ This document provides references for the inspirations behind our ReShade preset
 |------|------|-------------|------------|-----------|-------------|
 | 2001: A Space Odyssey | 1968 | Clinical minimalism with geometric framing | Geoffrey Unsworth (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0062622/) | Movie Night/Minimalist - Neutral - 2001 Space Odyssey |
 | A Clockwork Orange | 1971 | Stylized cool tones with stark whites | John Alcott (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0066921/) | Movie Night/Stylized - Warm+ - Clockwork Orange |
-| Amelie | 2001 | Stylized warm color palette with rich greens and reds | Bruno Delbonnel (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0211915/) | Movie Night/Cinematic - Warm+ - Amelie, Movie Night/Cinematic+ Warm - Amelie |
+| Amelie | 2001 | Stylized warm color palette with rich greens and reds | Bruno Delbonnel (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0211915/) | Movie Night/Cinematic - Warm+ - Amelie<br/>Movie Night/Cinematic+ Warm - Amelie |
 | Arrival | 2016 | Cool-toned sci-fi with atmospheric haze | Bradford Young (Cinematographer) | [IMDB](https://www.imdb.com/title/tt2543164/) | Movie Night/Stylized - Cool - Arrival |
 | Atlantics | 2019 | Atmospheric coastal imagery with otherworldly blue tones | Claire Mathon (Cinematographer) | [IMDB](https://www.imdb.com/title/tt10199586/) | True Hue/Natural - Warm+ - Atlantics |
 | Avatar | 2009 | Vibrant bioluminescent palette with rich blues | Mauro Fiore (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0499549/) | Movie Night/Vibrant - Cool+ - Avatar |
 | Avengers | 2012 | Vibrant superhero action with bold color palette | Seamus McGarvey (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0848228/) | Movie Night/Stylized - Neutral+ - Avengers |
 | Barbie | 2023 | Hypersaturated pink palette with plastic-like sheen | Rodrigo Prieto (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1517268/) | Movie Night/Vibrant - Warm++ - Barbie |
 | Black Panther | 2018 | Afrofuturistic design with vibrant color palette | Rachel Morrison (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1825683/) | True Hue/Vibrant - Warm+ - Black Panther |
-| Blade Runner | 1982 | Neon-noir cyberpunk with high contrast, cyan/orange color scheme | Jordan Cronenweth (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0083658/) | Gameplay/Balanced - Cinematic - Blade Runner, Gameplay/Enhanced - Cinematic - Blade Runner, Gameplay/Light - Cinematic - Blade Runner |
-| Blade Runner 2049 | 2017 | Enhanced neo-noir with atmospheric haze and strong color motifs | Roger Deakins (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1856101/) | Movie Night/Cinematic - Warm+ - Blade Runner 2049, Movie Night/Cinematic+ Warm - Blade Runner 2049 |
+| Blade Runner | 1982 | Neon-noir cyberpunk with high contrast, cyan/orange color scheme | Jordan Cronenweth (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0083658/) | Gameplay/Balanced - Cinematic - Blade Runner<br/>Gameplay/Enhanced - Cinematic - Blade Runner<br/>Gameplay/Light - Cinematic - Blade Runner |
+| Blade Runner 2049 | 2017 | Enhanced neo-noir with atmospheric haze and strong color motifs | Roger Deakins (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1856101/) | Movie Night/Cinematic - Warm+ - Blade Runner 2049<br/>Movie Night/Cinematic+ Warm - Blade Runner 2049 |
 | Casablanca | 1942 | Classic black and white with atmospheric lighting | Arthur Edeson (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0034583/) | Movie Night/Stylized - Neutral - Casablanca |
 | Cinema Paradiso | 1988 | Warm, nostalgic palette with soft lighting | Blasco Giurato (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0095765/) | Movie Night/Cinematic - Neutral - Cinema Paradiso |
 | Citizen Kane | 1941 | Revolutionary cinematography with deep focus and low angles | Orson Welles (Director) | [IMDB](https://www.imdb.com/title/tt0033467/) | Movie Night/B&W Warm - Citizen Kane |
@@ -27,11 +27,11 @@ This document provides references for the inspirations behind our ReShade preset
 | Enter the Void | 2009 | Psychedelic neon visuals with extreme color saturation | Benoît Debie (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1191111/) | Movie Night/Neon - Cool++ - Enter the Void |
 | Fences | 2016 | Intimate character study with naturalistic lighting | Charlotte Bruus Christensen (Cinematographer) | [IMDB](https://www.imdb.com/title/tt2671706/) | True Hue/Natural - Neutral - Fences |
 | Fight Club | 1999 | High contrast visual style with green/yellow tint | Jeff Cronenweth (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0137523/) | Movie Night/Poster - Silhouette - Fight Club |
-| Gone with the Wind | 1939 | Classic technicolor with dramatic silhouetting | Ernest Haller (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0031381/) | Movie Night/Poster - Silhouette - Gone with the Wind, Movie Night/Stylized - Warm - Gone with the Wind |
+| Gone with the Wind | 1939 | Classic technicolor with dramatic silhouetting | Ernest Haller (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0031381/) | Movie Night/Poster - Silhouette - Gone with the Wind<br/>Movie Night/Stylized - Warm - Gone with the Wind |
 | Harry Potter | 2001-2011 | Cool magical fantasy with increasing darkness | Various Cinematographers | [IMDB](https://www.imdb.com/title/tt0241527/) | Movie Night/Vibrant - Cool - Harry Potter |
 | Her | 2013 | Warm futurism with soft pastels and diffused light | Hoyte van Hoytema (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1798709/) | Movie Night/Minimalist - Warm - Her |
 | If Beale Street Could Talk | 2018 | Warm, romantic lighting with rich colors | James Laxton (Cinematographer) | [IMDB](https://www.imdb.com/title/tt7125860/) | True Hue/Dramatic - Cool - Beale Street |
-| Interstellar | 2014 | Cosmic scale with muted palette and dramatic contrast | Hoyte van Hoytema (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0816692/) | Movie Night/Cinematic - Cool - Interstellar, Movie Night/Cinematic Cool - Interstellar |
+| Interstellar | 2014 | Cosmic scale with muted palette and dramatic contrast | Hoyte van Hoytema (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0816692/) | Movie Night/Cinematic - Cool - Interstellar<br/>Movie Night/Cinematic Cool - Interstellar |
 | It's a Wonderful Life | 1946 | Warm nostalgic black and white | Joseph Walker, Joseph Biroc (Cinematographers) | [IMDB](https://www.imdb.com/title/tt0038650/) | Movie Night/Stylized - Warm - It's a Wonderful Life |
 | James Bond 007 Series | Various | Sleek action with iconic silhouettes | Various Cinematographers | [IMDB](https://www.imdb.com/list/ls006405458/) | Movie Night/Poster - Silhouette - James Bond 007 |
 | Judas and the Black Messiah | 2021 | Period drama with cool-toned political tension | Sean Bobbitt (Cinematographer) | [IMDB](https://www.imdb.com/title/tt9784798/) | True Hue/Dramatic - Cool+ - Judas and the Black Messiah |
@@ -42,10 +42,10 @@ This document provides references for the inspirations behind our ReShade preset
 | Marriage Story | 2019 | Intimate framing with natural, soft lighting | Robbie Ryan (Cinematographer) | [IMDB](https://www.imdb.com/title/tt7653254/) | Movie Night/Cinematic - Cool - Marriage Story |
 | Mary Poppins | 1964 | Fantasy with practical effects and warm tones | Edward Colman (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0058331/) | Movie Night/Poster - Silhouette - Mary Poppins |
 | Metropolis | 1927 | German Expressionist science fiction, high contrast black and white | Fritz Lang (Director) | [IMDB](https://www.imdb.com/title/tt0017136/) | Movie Night/B&W - Cool+ - Metropolis |
-| Minority Report | 2002 | Cold, sterile futuristic look with blue-tinted palette | Janusz Kamiński (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0181689/) | Movie Night/Minimalist - Cool - Minority Report, Movie Night/Minimalist Cool - Minority Report |
+| Minority Report | 2002 | Cold, sterile futuristic look with blue-tinted palette | Janusz Kamiński (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0181689/) | Movie Night/Minimalist - Cool - Minority Report<br/>Movie Night/Minimalist Cool - Minority Report |
 | Moonlight | 2016 | Blue-tinted visual poetry with intimate framing | James Laxton (Cinematographer) | [IMDB](https://www.imdb.com/title/tt4975722/) | True Hue/Cinematic - Cool/Color+/Stylized - Moonlight |
 | Nope | 2022 | Wide vistas with night-to-day contrast | Hoyte van Hoytema (Cinematographer) | [IMDB](https://www.imdb.com/title/tt10954984/) | True Hue/Poster - Fashion - Nope |
-| Pan's Labyrinth | 2006 | Fantasy contrast between cool reality and warm fantasy | Guillermo Navarro (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0457430/) | Movie Night/Dreamy - Cool - Pan's Labyrinth, Movie Night/Dreamy Cool - Pan's Labyrinth |
+| Pan's Labyrinth | 2006 | Fantasy contrast between cool reality and warm fantasy | Guillermo Navarro (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0457430/) | Movie Night/Dreamy - Cool - Pan's Labyrinth<br/>Movie Night/Dreamy Cool - Pan's Labyrinth |
 | Queen & Slim | 2019 | Warm tones with vibrant cultural aesthetics | Tat Radcliffe (Cinematographer) | [IMDB](https://www.imdb.com/title/tt8722346/) | True Hue/Cinematic - Warm+ - Queen & Slim |
 | Sin City | 2005 | High-contrast black and white with selective color highlights | Frank Miller, Robert Rodriguez (Directors) | [IMDB](https://www.imdb.com/title/tt0401792/) | Movie Night/B&W - Cool++ - Sin City |
 | Skyfall | 2012 | Rich visual texture with strong silhouettes | Roger Deakins (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1074638/) | Movie Night/Cinematic - Cool+ - Skyfall |
@@ -60,12 +60,12 @@ This document provides references for the inspirations behind our ReShade preset
 | The Godfather | 1972 | Amber-gold palette with dramatic shadows | Gordon Willis (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0068646/) | Movie Night/Cinematic - Warm+ - The Godfather |
 | The Grand Budapest Hotel | 2014 | Pastel-colored symmetrical compositions | Robert Yeoman (Cinematographer) | [IMDB](https://www.imdb.com/title/tt2278388/) | Movie Night/Vibrant - Warm+ - Grand Budapest Hotel |
 | The Maltese Falcon | 1941 | Film noir with dramatic shadows and lighting | John Huston (Director) | [IMDB](https://www.imdb.com/title/tt0033870/) | Movie Night/B&W - Neutral++ - The Maltese Falcon |
-| The Matrix | 1999 | Green-tinted cyberpunk with high contrast | Bill Pope (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0133093/) | Movie Night/Stylized - Cool+ - The Matrix, Movie Night/Stylized+ Cool - The Matrix |
+| The Matrix | 1999 | Green-tinted cyberpunk with high contrast | Bill Pope (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0133093/) | Movie Night/Stylized - Cool+ - The Matrix<br/>Movie Night/Stylized+ Cool - The Matrix |
 | The Princess Bride | 1987 | Fairy tale aesthetic with balanced, natural tones | Adrian Biddle (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0093779/) | Movie Night/Dreamy - Neutral - Princess Bride |
 | The Road | 2009 | Bleak desaturated palette with limited color range | Javier Aguirresarobe (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0898367/) | Movie Night/Desaturated - Warm+ - The Road |
 | The Witcher | 2019 | Desaturated palette with cool tones and high contrast | Gavin Struthers (Cinematographer) | [IMDB](https://www.imdb.com/title/tt5180504/) | Movie Night/Desaturated - Cool - The Witcher |
 | The Wizard of Oz | 1939 | Technicolor fantasy with vibrant primary colors | Harold Rosson (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0032138/) | Movie Night/Vibrant - Warm++ - Wizard of Oz |
-| Tron: Legacy | 2010 | Blue-cyan neon against dark backgrounds | Claudio Miranda (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1104001/) | Movie Night/Neon - Cool+ - Tron Legacy, Movie Night/Neon+ Cool - Tron Legacy |
+| Tron: Legacy | 2010 | Blue-cyan neon against dark backgrounds | Claudio Miranda (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1104001/) | Movie Night/Neon - Cool+ - Tron Legacy<br/>Movie Night/Neon+ Cool - Tron Legacy |
 | Us | 2019 | Horror with high contrast and distinctive shadows | Mike Gioulakis (Cinematographer) | [IMDB](https://www.imdb.com/title/tt6857112/) | True Hue/Cinematic - Vibrant - Us |
 | Vertigo | 1958 | Psychological thriller with disorienting perspective | Robert Burks (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0052357/) | Movie Night/Poster - Silhouette - Vertigo |
 
@@ -130,16 +130,16 @@ This document provides references for the inspirations behind our ReShade preset
 | Action | High-energy contrast with dynamic color accents | Movie Night/Poster - Modern - Action Blockbuster |
 | Anime | Stylized colors with high saturation typical of anime promotional materials | Movie Night/Poster - Anime |
 | B&W | Classic monochrome looks with varying contrast levels | Movie Night/B&W presets |
-| Cinematic | Emulates Hollywood color grading with emphasis on contrast and color separation | Gameplay/Light - Cinematic LUT, Movie Night/Cinematic presets |
+| Cinematic | Emulates Hollywood color grading with emphasis on contrast and color separation | Gameplay/Light - Cinematic LUT<br/>Movie Night/Cinematic presets |
 | Classic Hollywood | Traditional movie poster aesthetic with dramatic lighting | Movie Night/Poster - Classic - Hollywood Teaser |
-| Cool | Blue-tinted atmosphere with higher contrast | Gameplay/Light - Cool LUT, Movie Night/Cinematic - Cool |
+| Cool | Blue-tinted atmosphere with higher contrast | Gameplay/Light - Cool LUT<br/>Movie Night/Cinematic - Cool |
 | Dreamy | Soft focus and ethereal lighting for fantasy aesthetics | Movie Night/Dreamy presets |
 | Fantasy | Rich, saturated colors with dreamlike quality | Movie Night/Poster - Fantasy - Character Portrait |
 | Fashion | Magazine-style high contrast with emphasis on subject | Movie Night/Poster - Fashion - Magazine Cover |
 | Landscape | Enhanced depth and atmospheric perspective for environmental shots | Studio/Landscape presets |
-| Minimalist | Clean, simple effects with subtle enhancements | Movie Night/Minimalist presets, Movie Night/Poster - Minimalist - Art Style |
-| Natural | Balanced tones with minimal stylization | Gameplay/Light - Natural LUT, True Hue/Natural presets |
+| Minimalist | Clean, simple effects with subtle enhancements | Movie Night/Minimalist presets<br/>Movie Night/Poster - Minimalist - Art Style |
+| Natural | Balanced tones with minimal stylization | Gameplay/Light - Natural LUT<br/>True Hue/Natural presets |
 | Neon | Cyberpunk-inspired with vibrant accent colors against dark backgrounds | Movie Night/Neon presets |
-| Portrait | Optimized for human subjects with careful attention to skin tones | Studio/Portrait presets, Studio/Performance - Portrait Light |
+| Portrait | Optimized for human subjects with careful attention to skin tones | Studio/Portrait presets<br/>Studio/Performance - Portrait Light |
 | Silhouette | Dramatic backlighting creating iconic silhouettes | Movie Night/Poster - Silhouette presets |
-| Warm | Golden hour inspired with amber/orange hues | Gameplay/Light - Warm LUT, True Hue/Natural - Warm presets |
+| Warm | Golden hour inspired with amber/orange hues | Gameplay/Light - Warm LUT<br/>True Hue/Natural - Warm presets |
