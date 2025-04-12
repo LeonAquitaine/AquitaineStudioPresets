@@ -144,3 +144,21 @@
 | Portrait | Optimized for human subjects with careful attention to skin tones | Studio/Portrait presets<br/>Studio/Performance - Portrait Light |
 | Silhouette | Dramatic backlighting creating iconic silhouettes | Movie Night/Poster - Silhouette presets |
 | Warm | Golden hour inspired with amber/orange hues | Gameplay/Light - Warm LUT<br/>True Hue/Natural - Warm presets |
+
+## Acknowledgements
+
+| Collection | Creator | LUT Used | Preset Using This LUT |
+|------------|---------|----------|----------------------|
+| Okami | Okami | MultiLut_Yomi.png | Studio/Cinematic - Warm Glow |
+| Nael | Nael | lut_Nael.png | Studio/Cinematic - Cool - Kubrick |
+| ipsuShade | ipsusu | MultiLut_Ipsusu.png | Studio/Portrait - Soft - Ritts |
+
+These presets have been enhanced using Look-Up Tables (LUTs) from other ReShade preset collections. We extend our sincere appreciation to the original creators for their excellent color grading work. The incorporation of these LUTs has allowed for more diverse and sophisticated visual styles in the Aquitaine Studio collection.
+
+The LUTs are used in the following ways:
+
+- **Cinematic - Warm Glow**: Uses Okami's MultiLut_Yomi.png for a cinematic warm tone inspired by classic films, with enhancement to vibrance and rich golden hues.
+
+- **Cinematic - Cool - Kubrick**: Incorporates Nael's lut_Nael.png to create a cool, atmospheric look reminiscent of Stanley Kubrick's clinical color palette, particularly in films like "2001: A Space Odyssey" and "A Clockwork Orange."
+
+- **Portrait - Soft - Ritts**: Leverages ipsusu's MultiLut_Ipsusu.png for enhanced skin tones with a soft, flattering appearance similar to the ethereal style of photographer Herb Ritts.
