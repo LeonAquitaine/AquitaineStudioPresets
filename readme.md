@@ -27,17 +27,27 @@ Optimized for in-game performance and visuals.
 
 | Preset Name       | Characteristics                                      |
 |-------------------|------------------------------------------------------|
-| Light - Cinematic - Blade Runner | Minimal shader count with cyberpunk-inspired visuals. |
-| Light - Natural LUT | Performance-focused preset with natural color enhancement using LUT. |
-| Light - Cinematic LUT | Movie-style color grading with minimal performance impact. |
-| Light - Vivid LUT | Vibrant color enhancement through LUT for high performance. |
-| Light - Warm LUT | Golden-hour style warm tones with LUT-based color grading. |
-| Light - Cool LUT | Stylized cool tones with contrast enhancement for atmosphere. |
-| Balanced - Cinematic | Moderate effects balancing quality and performance.  |
-| Enhanced - Cinematic | High-quality settings for powerful systems.          |
-| Locations         | Presets tailored for specific game areas like forests, snow, coastal, and desert environments. |
-| Weather           | Effects for rain, fog, and other weather conditions. |
-| Time of Day       | Adjustments for golden hour and nighttime scenes.    |
+| Light - Cinematic - Neon | Minimal shader count with cyberpunk-inspired visuals. |
+| Light - Natural - Neutral | Performance-focused preset with natural color enhancement using LUT. |
+| Light - Cinematic - Natural | Movie-style color grading with minimal performance impact. |
+| Light - Vibrant - General | Vibrant color enhancement through LUT for high performance. |
+| Light - Atmosphere - Warm | Golden-hour style warm tones with LUT-based color grading. |
+| Light - Atmosphere - Cool | Stylized cool tones with contrast enhancement for atmosphere. |
+| Light - Cinematic - Blue | Subtle cinematic blue tones with high performance. |
+| Light - Clarity - Crisp | Sharp, detailed visuals with enhanced clarity. |
+| Light - Fantasy - Magical | Fantasy-inspired aesthetic with enhanced colors. |
+| Light - Noir - Shadow | Film noir inspired with high contrast shadows. |
+| Light - Vibrant - Colorful | Bold, vibrant colors with enhanced saturation. |
+| Balanced - Cinematic - Neon | Moderate effects balancing quality and performance. |
+| Enhanced - Cinematic - Neon | High-quality settings for powerful systems. |
+| Light - Location - Forest | Optimized for forest environments with natural greens. |
+| Light - Location - Snow | Balanced lighting for snowy scenes with cool tones. |
+| Light - Location - Coastal | Enhanced blues and atmosphere for coastal areas. |
+| Light - Location - Desert | Warm tones and enhanced contrast for desert environments. |
+| Light - Weather - Fog | Atmospheric effects optimized for foggy conditions. |
+| Light - Weather - Rain | Enhanced reflections and atmosphere for rainy scenes. |
+| Light - TimeOfDay - Night | Optimized visibility and mood for nighttime gameplay. |
+| Light - TimeOfDay - Golden Hour | Warm, golden lighting for sunset/sunrise scenes. |
 
 ## Movie Night Set
 
@@ -83,3 +93,15 @@ Enhances darker skin tones with warm or gray adjustments.
 | Poster Series     | High-impact promotional poster styles for character showcases. |
 | Stylized Series   | Distinctive color treatments for artistic expression. |
 | Vibrant Series    | Bold, saturated colors that enhance darker skin tones. |
+
+## Acknowledgements
+
+Some presets have been enhanced using Look-Up Tables (LUTs) from other ReShade preset collections. We extend our sincere appreciation to the original creators:
+
+- Okami (MultiLut_Yomi.png)
+- Nael (lut_Nael.png)
+- ipsusu (MultiLut_Ipsusu.png)
+- Witch's Presets
+- GShade
+
+For detailed information about preset inspirations and references, please see the [references.md](references.md) file.
