@@ -131,28 +131,46 @@
 | Action | High-energy contrast with dynamic color accents | Movie Night/Poster - Modern - Action Blockbuster |
 | Anime | Stylized colors with high saturation typical of anime promotional materials | Movie Night/Poster - Anime |
 | B&W | Classic monochrome looks with varying contrast levels | Movie Night/B&W presets |
-| Cinematic | Emulates Hollywood color grading with emphasis on contrast and color separation | Gameplay/Light - Cinematic LUT<br/>Movie Night/Cinematic presets |
+| Cinematic | Emulates Hollywood color grading with emphasis on contrast and color separation | Gameplay/Light - Cinematic - Natural<br/>Movie Night/Cinematic presets |
 | Classic Hollywood | Traditional movie poster aesthetic with dramatic lighting | Movie Night/Poster - Classic - Hollywood Teaser |
-| Cool | Blue-tinted atmosphere with higher contrast | Gameplay/Light - Cool LUT<br/>Movie Night/Cinematic - Cool |
+| Cool | Blue-tinted atmosphere with higher contrast | Gameplay/Light - Atmosphere - Cool<br/>Movie Night/Cinematic - Cool |
 | Dreamy | Soft focus and ethereal lighting for fantasy aesthetics | Movie Night/Dreamy presets |
-| Fantasy | Rich, saturated colors with dreamlike quality | Movie Night/Poster - Fantasy - Character Portrait |
+| Fantasy | Rich, saturated colors with dreamlike quality | Gameplay/Light - Fantasy - Magical<br/>Movie Night/Poster - Fantasy - Character Portrait |
 | Fashion | Magazine-style high contrast with emphasis on subject | Movie Night/Poster - Fashion - Magazine Cover |
-| Landscape | Enhanced depth and atmospheric perspective for environmental shots | Studio/Landscape presets |
+| Landscape | Enhanced depth and atmospheric perspective for environmental shots | Studio/Landscape presets<br/>Gameplay/Light - Location - Forest |
 | Minimalist | Clean, simple effects with subtle enhancements | Movie Night/Minimalist presets<br/>Movie Night/Poster - Minimalist - Art Style |
-| Natural | Balanced tones with minimal stylization | Gameplay/Light - Natural LUT<br/>True Hue/Natural presets |
-| Neon | Cyberpunk-inspired with vibrant accent colors against dark backgrounds | Movie Night/Neon presets |
+| Natural | Balanced tones with minimal stylization | Gameplay/Light - Natural - Neutral<br/>True Hue/Natural presets |
+| Neon | Cyberpunk-inspired with vibrant accent colors against dark backgrounds | Gameplay/Light - Cinematic - Neon<br/>Movie Night/Neon presets |
 | Portrait | Optimized for human subjects with careful attention to skin tones | Studio/Portrait presets<br/>Studio/Performance - Portrait Light |
 | Silhouette | Dramatic backlighting creating iconic silhouettes | Movie Night/Poster - Silhouette presets |
-| Warm | Golden hour inspired with amber/orange hues | Gameplay/Light - Warm LUT<br/>True Hue/Natural - Warm presets |
+| Warm | Golden hour inspired with amber/orange hues | Gameplay/Light - Atmosphere - Warm<br/>True Hue/Natural - Warm presets |
 
 ## Acknowledgements
 
 | Collection | Creator | LUT Used | Preset Using This LUT |
 |------------|---------|----------|----------------------|
-| Okami | Okami | MultiLut_Yomi.png | Studio/Cinematic - Warm Glow<br/>Gameplay/Light - Vibrant - Fifth Element |
-| Nael | Nael | lut_Nael.png | Studio/Cinematic - Cool - Kubrick<br/>Gameplay/Light - Noir - Maltese Falcon |
-| ipsuShade | ipsusu | MultiLut_Ipsusu.png | Studio/Portrait - Soft - Ritts<br/>Gameplay/Light - Clarity - Deakins |
-| Witch's Presets | Witch | MultiLUTTexture_Source=1 | Gameplay/Light - Fantasy - Stardust |
-| GShade | Various | MultiLut_GShade.png | Gameplay/Light - Cinematic - Skyfall |
+| Okami | Okami | MultiLut_Yomi.png | Studio/Cinematic - Warm Glow<br/>Gameplay/Light - Vibrant - Colorful |
+| Nael | Nael | lut_Nael.png | Studio/Cinematic - Cool - Kubrick<br/>Gameplay/Light - Noir - Shadow |
+| ipsuShade | ipsusu | MultiLut_Ipsusu.png | Studio/Portrait - Soft - Ritts<br/>Gameplay/Light - Clarity - Crisp |
+| Witch's Presets | Witch | MultiLUTTexture_Source=1 | Gameplay/Light - Fantasy - Magical |
+| GShade | Various | MultiLut_GShade.png | Gameplay/Light - Cinematic - Blue |
 
-These presets have been enhanced using Look-Up Tables (LUTs) from other ReShade preset collections. I extend my sincere appreciation to the original creators for their excellent color grading work. The incorporation of these LUTs allowed for more diverse and sophisticated visual styles in the collection.
+These presets have been enhanced using Look-Up Tables (LUTs) from other ReShade preset collections. We extend our sincere appreciation to the original creators for their excellent color grading work. The incorporation of these LUTs has allowed for more diverse and sophisticated visual styles in the Aquitaine Studio collection.
+
+The LUTs are used in the following ways:
+
+- **Cinematic - Warm Glow**: Uses Okami's MultiLut_Yomi.png for a cinematic warm tone inspired by classic films, with enhancement to vibrance and rich golden hues.
+
+- **Cinematic - Cool - Kubrick**: Incorporates Nael's lut_Nael.png to create a cool, atmospheric look reminiscent of Stanley Kubrick's clinical color palette, particularly in films like "2001: A Space Odyssey" and "A Clockwork Orange."
+
+- **Portrait - Soft - Ritts**: Leverages ipsusu's MultiLut_Ipsusu.png for enhanced skin tones with a soft, flattering appearance similar to the ethereal style of photographer Herb Ritts.
+
+- **Light - Noir - Shadow**: A performance-optimized gameplay preset using Nael's lut_Nael.png for a film noir aesthetic with lower vibrance, bluer tones, and enhanced contrast, creating dramatic shadows.
+
+- **Light - Clarity - Crisp**: A lightweight gameplay preset featuring ipsusu's MultiLut_Ipsusu.png that emphasizes clarity and sharpness while maintaining natural colors and good performance.
+
+- **Light - Fantasy - Magical**: Uses Witch's Presets LUT collection to create a fantasy-inspired aesthetic with enhanced color saturation while keeping impact on performance minimal.
+
+- **Light - Vibrant - Colorful**: Employs Okami's MultiLut_Yomi.png for vibrant, colorful gameplay with enhanced saturation and contrast, optimized for performance.
+
+- **Light - Cinematic - Blue**: Utilizes the MultiLut_GShade.png for a film-like aesthetic with blue tones that adds cinematic quality while maintaining good performance.
