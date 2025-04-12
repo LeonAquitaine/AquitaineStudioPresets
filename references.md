@@ -94,7 +94,7 @@
 | [Nick Knight](https://en.wikipedia.org/wiki/Nick_Knight_(photographer)) | Avant-garde fashion photography with experimental techniques | [Show Studio](https://www.showstudio.com/) | Studio/Fashion - Black+ - Knight |
 | [Paolo Roversi](https://en.wikipedia.org/wiki/Paolo_Roversi) | Ethereal, dreamlike portraiture with soft focus and Polaroid aesthetics | [Paolo Roversi](https://www.paoloroversi.com/) | Studio/Portrait - Soft - Roversi |
 | [Patrick Demarchelier](https://en.wikipedia.org/wiki/Patrick_Demarchelier) | Clean, elegant fashion photography with natural lighting | [demarchelier.com](https://www.demarchelier.com/) | Studio/Fashion - Black - Demarchelier |
-| [Peter Lindbergh](https://en.wikipedia.org/wiki/Peter_Lindbergh) | Natural beauty in black and white fashion photography | [Peter Lindbergh](https://www.peterlindbergh.com/) | Studio/Portrait - Black+ - Lindbergh<br/>Studio/Portrait - White - Lindbergh |
+| [Peter Lindbergh](https://en.wikipedia.org/wiki/Peter_Lindbergh) | Natural beauty in black and white fashion photography | [Peter Lindbergh](http://peterlindbergh.foundation/) | Studio/Portrait - Black+ - Lindbergh<br/>Studio/Portrait - White - Lindbergh |
 | [Philip-Lorca diCorcia](https://en.wikipedia.org/wiki/Philip-Lorca_diCorcia) | Cinematic narrative photography with theatrical lighting | [David Zwirner](https://www.davidzwirner.com/artists/philip-lorca-dicorcia) | Studio/Modern - Cinematic - diCorcia |
 | [Richard Avedon](https://en.wikipedia.org/wiki/Richard_Avedon) | Stark black and white portraits with minimalist backgrounds | [Avedon Foundation](https://www.avedonfoundation.org/) | Studio/Portrait - White+ - Avedon |
 | [Sebastião Salgado](https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Salgado) | Powerful documentary photography with social themes | [Amazonas Images](https://www.amazonasimages.com/) | Studio/Portrait - Busy++ - Salgado |
@@ -114,7 +114,7 @@
 
 | Film Stock | Manufacturer | Characteristics | Preset File |
 |------------|-------------|-----------------|-------------|
-| [Portra](https://www.kodak.com/en/professional/product/films/still/portra) | Kodak | Warm tones with excellent skin rendition | Studio/Modern - Film Emulation - Portra |
+| [Portra](https://en.wikipedia.org/wiki/Kodak_Portra) | Kodak | Warm tones with excellent skin rendition | Studio/Modern - Film Emulation - Portra |
 
 ## Contemporary Digital Artists
 
