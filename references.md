@@ -81,27 +81,27 @@ This document provides references for the inspirations behind our ReShade preset
 
 | Photographer | Style | Official Website | Preset File |
 |--------------|-------|------------------|-------------|
-| Ansel Adams ([Wikipedia](https://en.wikipedia.org/wiki/Ansel_Adams)) | Dramatic black and white landscapes with deep contrast | [Ansel Adams](https://anseladams.com/) | Studio/Landscape - Dramatic/Natural - Adams |
-| Annie Leibovitz ([Wikipedia](https://en.wikipedia.org/wiki/Annie_Leibovitz)) | Celebrity portraiture with dramatic, narrative qualities | [Annie Leibovitz](https://www.annieleibovitstudio.com/) | Studio/Portrait - White++ - Leibovitz |
-| Bruce Weber ([Wikipedia](https://en.wikipedia.org/wiki/Bruce_Weber_(photographer))) | Nostalgic black and white lifestyle photography | [Bruce Weber](https://www.bruceweber.com/) | Studio/Fashion - Busy++/White - Weber |
-| David Bailey ([Wikipedia](https://en.wikipedia.org/wiki/David_Bailey)) | Iconic 1960s black and white portrait photography | [David Bailey](https://www.davidbaileyphotography.com/) | Studio/Portrait - Black - Bailey |
-| Elliott Erwitt ([Wikipedia](https://en.wikipedia.org/wiki/Elliott_Erwitt)) | Humorous, candid black and white photography | [Magnum Photos](https://www.magnumphotos.com/photographer/elliott-erwitt/) | Studio/Portrait - Busy - Erwitt |
-| George Hurrell ([Wikipedia](https://en.wikipedia.org/wiki/George_Hurrell)) | Classic Hollywood glamour portraits with dramatic lighting | [Hurrell Estate](https://www.hurrell.com/) | Studio/Technical - Butterfly+ - Hurrell |
-| Helmut Newton ([Wikipedia](https://en.wikipedia.org/wiki/Helmut_Newton)) | Bold, provocative fashion photography with dramatic lighting | [Helmut Newton Foundation](https://helmut-newton-foundation.org/en/) | Studio/Fashion - Black++ - Newton |
-| Irving Penn ([Wikipedia](https://en.wikipedia.org/wiki/Irving_Penn)) | Elegant, minimalist studio portraits and still lifes | [Irving Penn Foundation](https://irvingpenn.org/) | Studio/Portrait - Black+ - Penn |
-| Mario Testino ([Wikipedia](https://en.wikipedia.org/wiki/Mario_Testino)) | Vibrant, glamorous celebrity and fashion portraits | [Mario Testino](https://www.mariotestino.com/) | Studio/Fashion - White+ - Testino |
-| Miles Aldridge ([Wikipedia](https://en.wikipedia.org/wiki/Miles_Aldridge)) | Hyper-saturated, surreal fashion photography | [Miles Aldridge](https://www.milesaldridge.com/) | Studio/Modern - Matte+ - Priestly |
-| Nick Knight ([Wikipedia](https://en.wikipedia.org/wiki/Nick_Knight_(photographer))) | Avant-garde fashion photography with experimental techniques | [Show Studio](https://www.showstudio.com/) | Studio/Fashion - Black+ - Knight |
-| Paolo Roversi ([Wikipedia](https://en.wikipedia.org/wiki/Paolo_Roversi)) | Ethereal, dreamlike portraiture with soft focus and Polaroid aesthetics | [Paolo Roversi Studio](https://www.paoloroversi.com/) | Studio/Portrait - Soft - Roversi |
-| Patrick Demarchelier ([Wikipedia](https://en.wikipedia.org/wiki/Patrick_Demarchelier)) | Clean, elegant fashion photography with natural lighting | [demarchelier.com](https://www.demarchelier.com/) | Studio/Fashion - Black - Demarchelier |
-| Peter Lindbergh ([Wikipedia](https://en.wikipedia.org/wiki/Peter_Lindbergh)) | Natural beauty in black and white fashion photography | [Peter Lindbergh](https://www.peterlindbergh.com/) | Studio/Portrait - Black+ - Lindbergh<br/>Studio/Portrait - White - Lindbergh |
-| Philip-Lorca diCorcia ([Wikipedia](https://en.wikipedia.org/wiki/Philip-Lorca_diCorcia)) | Cinematic narrative photography with theatrical lighting | [David Zwirner](https://www.davidzwirner.com/artists/philip-lorca-dicorcia) | Studio/Modern - Crush+ - Fisher |
-| Richard Avedon ([Wikipedia](https://en.wikipedia.org/wiki/Richard_Avedon)) | Stark black and white portraits with minimalist backgrounds | [Avedon Foundation](https://www.avedonfoundation.org/) | Studio/Portrait - White+ - Avedon |
-| Sebastião Salgado ([Wikipedia](https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Salgado)) | Powerful documentary photography with social themes | [Amazonas Images](https://www.amazonasimages.com/) | Studio/Portrait - Busy++ - Salgado |
-| Steve McCurry ([Wikipedia](https://en.wikipedia.org/wiki/Steve_McCurry)) | Vibrant documentary photography with striking colors | [Steve McCurry](https://stevemccurry.com/) | Studio/Portrait - Busy+ - McCurry |
-| Steven Klein ([Wikipedia](https://en.wikipedia.org/wiki/Steven_Klein_(photographer))) | Dark, surreal fashion photography with provocative themes | [Steven Klein Studio](https://www.kleinstudio.us/) | Studio/Fashion - Concept/White++ - Klein |
-| Steven Meisel ([Wikipedia](https://en.wikipedia.org/wiki/Steven_Meisel)) | High fashion photography with cultural commentary | [Art + Commerce](https://www.artandcommerce.com/artists/photographers/Steven-Meisel) | Studio/Fashion - Busy+ - Meisel |
-| Yousuf Karsh ([Wikipedia](https://en.wikipedia.org/wiki/Yousuf_Karsh)) | Dramatic portrait lighting with psychological depth | [Karsh](https://karsh.org/) | Studio/Portrait - Black++ - Karsh |
+| [Ansel Adams](https://en.wikipedia.org/wiki/Ansel_Adams) | Dramatic black and white landscapes with deep contrast | [Ansel Adams](https://anseladams.com/) | Studio/Landscape - Dramatic/Natural - Adams |
+| [Annie Leibovitz](https://en.wikipedia.org/wiki/Annie_Leibovitz) | Celebrity portraiture with dramatic, narrative qualities | [Annie Leibovitz](https://www.annieleibovitstudio.com/) | Studio/Portrait - White++ - Leibovitz |
+| [Bruce Weber](https://en.wikipedia.org/wiki/Bruce_Weber_(photographer)) | Nostalgic black and white lifestyle photography | [Bruce Weber](https://www.bruceweber.com/) | Studio/Fashion - Busy++/White - Weber |
+| [David Bailey](https://en.wikipedia.org/wiki/David_Bailey) | Iconic 1960s black and white portrait photography | [David Bailey](https://www.davidbaileyphotography.com/) | Studio/Portrait - Black - Bailey |
+| [Elliott Erwitt](https://en.wikipedia.org/wiki/Elliott_Erwitt) | Humorous, candid black and white photography | [Magnum Photos](https://www.magnumphotos.com/photographer/elliott-erwitt/) | Studio/Portrait - Busy - Erwitt |
+| [George Hurrell](https://en.wikipedia.org/wiki/George_Hurrell) | Classic Hollywood glamour portraits with dramatic lighting | [Hurrell Estate](https://www.hurrell.com/) | Studio/Technical - Butterfly+ - Hurrell |
+| [Helmut Newton](https://en.wikipedia.org/wiki/Helmut_Newton) | Bold, provocative fashion photography with dramatic lighting | [Helmut Newton Foundation](https://helmut-newton-foundation.org/en/) | Studio/Fashion - Black++ - Newton |
+| [Irving Penn](https://en.wikipedia.org/wiki/Irving_Penn) | Elegant, minimalist studio portraits and still lifes | [Irving Penn Foundation](https://irvingpenn.org/) | Studio/Portrait - Black+ - Penn |
+| [Mario Testino](https://en.wikipedia.org/wiki/Mario_Testino) | Vibrant, glamorous celebrity and fashion portraits | [Mario Testino](https://www.mariotestino.com/) | Studio/Fashion - White+ - Testino |
+| [Miles Aldridge](https://en.wikipedia.org/wiki/Miles_Aldridge) | Hyper-saturated, surreal fashion photography | [Miles Aldridge](https://www.milesaldridge.com/) | Studio/Modern - Matte+ - Priestly |
+| [Nick Knight](https://en.wikipedia.org/wiki/Nick_Knight_(photographer)) | Avant-garde fashion photography with experimental techniques | [Show Studio](https://www.showstudio.com/) | Studio/Fashion - Black+ - Knight |
+| [Paolo Roversi](https://en.wikipedia.org/wiki/Paolo_Roversi) | Ethereal, dreamlike portraiture with soft focus and Polaroid aesthetics | [Paolo Roversi Studio](https://www.paoloroversi.com/) | Studio/Portrait - Soft - Roversi |
+| [Patrick Demarchelier](https://en.wikipedia.org/wiki/Patrick_Demarchelier) | Clean, elegant fashion photography with natural lighting | [demarchelier.com](https://www.demarchelier.com/) | Studio/Fashion - Black - Demarchelier |
+| [Peter Lindbergh](https://en.wikipedia.org/wiki/Peter_Lindbergh) | Natural beauty in black and white fashion photography | [Peter Lindbergh](https://www.peterlindbergh.com/) | Studio/Portrait - Black+ - Lindbergh<br/>Studio/Portrait - White - Lindbergh |
+| [Philip-Lorca diCorcia](https://en.wikipedia.org/wiki/Philip-Lorca_diCorcia) | Cinematic narrative photography with theatrical lighting | [David Zwirner](https://www.davidzwirner.com/artists/philip-lorca-dicorcia) | Studio/Modern - Crush+ - Fisher |
+| [Richard Avedon](https://en.wikipedia.org/wiki/Richard_Avedon) | Stark black and white portraits with minimalist backgrounds | [Avedon Foundation](https://www.avedonfoundation.org/) | Studio/Portrait - White+ - Avedon |
+| [Sebastião Salgado](https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Salgado) | Powerful documentary photography with social themes | [Amazonas Images](https://www.amazonasimages.com/) | Studio/Portrait - Busy++ - Salgado |
+| [Steve McCurry](https://en.wikipedia.org/wiki/Steve_McCurry) | Vibrant documentary photography with striking colors | [Steve McCurry](https://stevemccurry.com/) | Studio/Portrait - Busy+ - McCurry |
+| [Steven Klein](https://en.wikipedia.org/wiki/Steven_Klein_(photographer)) | Dark, surreal fashion photography with provocative themes | [Steven Klein Studio](https://www.kleinstudio.us/) | Studio/Fashion - Concept/White++ - Klein |
+| [Steven Meisel](https://en.wikipedia.org/wiki/Steven_Meisel) | High fashion photography with cultural commentary | [Art + Commerce](https://www.artandcommerce.com/artists/photographers/Steven-Meisel) | Studio/Fashion - Busy+ - Meisel |
+| [Yousuf Karsh](https://en.wikipedia.org/wiki/Yousuf_Karsh) | Dramatic portrait lighting with psychological depth | [Karsh](https://karsh.org/) | Studio/Portrait - Black++ - Karsh |
 
 ## Fine Art Inspirations
 
