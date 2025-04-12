@@ -114,15 +114,15 @@ This document provides references for the inspirations behind our ReShade preset
 
 | Film Stock | Manufacturer | Characteristics | Preset File |
 |------------|-------------|-----------------|-------------|
-| Portra | Kodak | Warm tones with excellent skin rendition ([Kodak Portra](https://www.kodak.com/en/professional/product/films/still/portra)) | Studio/Modern - Film Emulation - Portra |
+| [Portra](https://www.kodak.com/en/professional/product/films/still/portra) | Kodak | Warm tones with excellent skin rendition | Studio/Modern - Film Emulation - Portra |
 
 ## Contemporary Digital Artists
 
 | Artist | Style | Portfolio | Preset File |
 |--------|-------|----------|-------------|
-| Dan Priestly ([Instagram](https://www.instagram.com/danpriestley)) | Matte finish editorial and advertising photography | [Dan Priestly](https://www.danpriestley.com/) | Studio/Modern - Matte+ - Priestly |
-| Lois Greenfield ([Wikipedia](https://en.wikipedia.org/wiki/Lois_Greenfield)) | Dynamic dance photography with movement-freezing technique | [Lois Greenfield](https://www.loisgreenfield.com/) | Studio/Performance - Portrait Light |
-| Petra Kvålsvik Fisher ([Behance](https://www.behance.net/petrafisher)) | Modern fashion imagery with clean, commercial aesthetic | [Petra Fisher](https://www.petrafisherphotography.com/) | Studio/Modern - Crush+ - Fisher |
+| [Dan Priestly](https://www.instagram.com/danpriestley) | Matte finish editorial and advertising photography | [Dan Priestly](https://www.danpriestley.com/) | Studio/Modern - Matte+ - Priestly |
+| [Lois Greenfield](https://en.wikipedia.org/wiki/Lois_Greenfield) | Dynamic dance photography with movement-freezing technique | [Lois Greenfield](https://www.loisgreenfield.com/) | Studio/Performance - Portrait Light |
+| [Petra Kvålsvik Fisher](https://www.behance.net/petrafisher) | Modern fashion imagery with clean, commercial aesthetic | [Petra Fisher](https://www.petrafisherphotography.com/) | Studio/Modern - Crush+ - Fisher |
 
 ## Visual Style References
 
