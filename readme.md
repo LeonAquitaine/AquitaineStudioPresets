@@ -60,7 +60,7 @@ Photography-focused presets for character portraits and landscapes.
 |-------------------|------------------------------------------------------|
 | Fashion Series    | Inspired by iconic photographers like Patrick Demarchelier, Richard Avedon, and Helmut Newton. |
 | Landscape Series  | Enhances natural and dramatic scenery.               |
-| Portrait Series   | Focused on lighting and tone for character shots.    |
+| Portrait Series   | Focused on lighting and tone for character shots, including styles inspired by Paolo Roversi's ethereal softness and Peter Lindbergh's dramatic black and white approach. |
 
 ## True Hue Set
 
