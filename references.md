@@ -107,8 +107,8 @@ This document provides references for the inspirations behind our ReShade preset
 
 | Artist | Period | Style | Preset File |
 |--------|--------|-------|-------------|
-| Caravaggio ([Wikipedia](https://en.wikipedia.org/wiki/Caravaggio)) | Baroque | Intense dramatic lighting with strong light/dark contrast | Studio/Technical - Split - Caravaggio |
-| Rembrandt ([Wikipedia](https://en.wikipedia.org/wiki/Rembrandt)) | Dutch Golden Age | Dramatic chiaroscuro lighting with warm tones | Studio/Technical - Rembrandt |
+| [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio) | Baroque | Intense dramatic lighting with strong light/dark contrast | Studio/Technical - Split - Caravaggio |
+| [Rembrandt](https://en.wikipedia.org/wiki/Rembrandt) | Dutch Golden Age | Dramatic chiaroscuro lighting with warm tones | Studio/Technical - Rembrandt |
 
 ## Film Emulation References
 
