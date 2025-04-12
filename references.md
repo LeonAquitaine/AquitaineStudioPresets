@@ -155,22 +155,4 @@
 | Witch's Presets | Witch | MultiLUTTexture_Source=1 | Gameplay/Light - Fantasy - Stardust |
 | GShade | Various | MultiLut_GShade.png | Gameplay/Light - Cinematic - Skyfall |
 
-These presets have been enhanced using Look-Up Tables (LUTs) from other ReShade preset collections. We extend our sincere appreciation to the original creators for their excellent color grading work. The incorporation of these LUTs has allowed for more diverse and sophisticated visual styles in the Aquitaine Studio collection.
-
-The LUTs are used in the following ways:
-
-- **Cinematic - Warm Glow**: Uses Okami's MultiLut_Yomi.png for a cinematic warm tone inspired by classic films, with enhancement to vibrance and rich golden hues.
-
-- **Cinematic - Cool - Kubrick**: Incorporates Nael's lut_Nael.png to create a cool, atmospheric look reminiscent of Stanley Kubrick's clinical color palette, particularly in films like "2001: A Space Odyssey" and "A Clockwork Orange."
-
-- **Portrait - Soft - Ritts**: Leverages ipsusu's MultiLut_Ipsusu.png for enhanced skin tones with a soft, flattering appearance similar to the ethereal style of photographer Herb Ritts.
-
-- **Light - Noir - Maltese Falcon**: A performance-optimized gameplay preset using Nael's lut_Nael.png for a film noir aesthetic with lower vibrance, bluer tones, and enhanced contrast, reminiscent of classic noir films like "The Maltese Falcon."
-
-- **Light - Clarity - Deakins**: A lightweight gameplay preset featuring ipsusu's MultiLut_Ipsusu.png that emphasizes clarity and sharpness while maintaining natural colors and good performance, inspired by Roger Deakins' crisp cinematography style.
-
-- **Light - Fantasy - Stardust**: Uses Witch's Presets LUT collection to create a fantasy-inspired aesthetic with enhanced color saturation while keeping impact on performance minimal, evoking the magical atmosphere of films like "Stardust."
-
-- **Light - Vibrant - Fifth Element**: Employs Okami's MultiLut_Yomi.png for vibrant, colorful gameplay with enhanced saturation and contrast, optimized for performance and inspired by the bold color palette of "The Fifth Element."
-
-- **Light - Cinematic - Skyfall**: Utilizes the MultiLut_GShade.png for a film-like aesthetic that adds cinematic quality while maintaining good performance, drawing inspiration from the rich visual texture of "Skyfall."
+These presets have been enhanced using Look-Up Tables (LUTs) from other ReShade preset collections. I extend my sincere appreciation to the original creators for their excellent color grading work. The incorporation of these LUTs allowed for more diverse and sophisticated visual styles in the collection.
