@@ -35,6 +35,47 @@ This document provides references for the inspirations behind our ReShade preset
 | E.T. the Extra-Terrestrial | 1982 | Iconic silhouette imagery | Allen Daviau (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0083866/) |
 | Fight Club | 1999 | High contrast visual style with green/yellow tint | Jeff Cronenweth (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0137523/) |
 | Gone with the Wind | 1939 | Classic technicolor with dramatic silhouetting | Ernest Haller (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0031381/) |
+| Arrival | 2016 | Cool-toned sci-fi with atmospheric haze | Bradford Young (Cinematographer) | [IMDB](https://www.imdb.com/title/tt2543164/) |
+| The Matrix | 1999 | Green-tinted cyberpunk with high contrast | Bill Pope (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0133093/) |
+| Casablanca | 1942 | Classic black and white with atmospheric lighting | Arthur Edeson (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0034583/) |
+| Star Wars | 1977 | High-contrast space fantasy with iconic silhouettes | Gilbert Taylor (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0076759/) |
+| Avengers | 2012 | Vibrant superhero action with bold color palette | Seamus McGarvey (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0848228/) |
+| Dune | 2021 | Warm desert tones with monumental scale | Greig Fraser (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1160419/) |
+| It's a Wonderful Life | 1946 | Warm nostalgic black and white | Joseph Walker, Joseph Biroc (Cinematographers) | [IMDB](https://www.imdb.com/title/tt0038650/) |
+| A Clockwork Orange | 1971 | Stylized cool tones with stark whites | John Alcott (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0066921/) |
+| Harry Potter | 2001-2011 | Cool magical fantasy with increasing darkness | Various Cinematographers | [IMDB](https://www.imdb.com/title/tt0241527/) |
+| Avatar | 2009 | Vibrant bioluminescent palette with rich blues | Mauro Fiore (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0499549/) |
+| The Grand Budapest Hotel | 2014 | Pastel-colored symmetrical compositions | Robert Yeoman (Cinematographer) | [IMDB](https://www.imdb.com/title/tt2278388/) |
+| La La Land | 2016 | Vibrant primary colors with nostalgic warmth | Linus Sandgren (Cinematographer) | [IMDB](https://www.imdb.com/title/tt3783958/) |
+| The Fifth Element | 1997 | Saturated futuristic visuals with neon accents | Thierry Arbogast (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0119116/) |
+| Barbie | 2023 | Hypersaturated pink palette with plastic-like sheen | Rodrigo Prieto (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1517268/) |
+| The Wizard of Oz | 1939 | Technicolor fantasy with vibrant primary colors | Harold Rosson (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0032138/) |
+| James Bond 007 Series | Various | Sleek action with iconic silhouettes | Various Cinematographers | [IMDB](https://www.imdb.com/list/ls006405458/) |
+| Vertigo | 1958 | Psychological thriller with disorienting perspective | Robert Burks (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0052357/) |
+| Mary Poppins | 1964 | Fantasy with practical effects and warm tones | Edward Colman (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0058331/) |
+| Moonlight | 2016 | Blue-tinted visual poetry with intimate framing | James Laxton (Cinematographer) | [IMDB](https://www.imdb.com/title/tt4975722/) |
+| Us | 2019 | Horror with high contrast and distinctive shadows | Mike Gioulakis (Cinematographer) | [IMDB](https://www.imdb.com/title/tt6857112/) |
+| Queen & Slim | 2019 | Warm tones with vibrant cultural aesthetics | Tat Radcliffe (Cinematographer) | [IMDB](https://www.imdb.com/title/tt8722346/) |
+| Spotlight | 2015 | Dramatic documentary style with neutral palette | Masanobu Takayanagi (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1895587/) |
+| If Beale Street Could Talk | 2018 | Warm, romantic lighting with rich colors | James Laxton (Cinematographer) | [IMDB](https://www.imdb.com/title/tt7125860/) |
+| Judas and the Black Messiah | 2021 | Period drama with cool-toned political tension | Sean Bobbitt (Cinematographer) | [IMDB](https://www.imdb.com/title/tt9784798/) |
+| Malcolm X | 1992 | Epic biographical drama with period-specific looks | Ernest Dickerson (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0104797/) |
+| Fences | 2016 | Intimate character study with naturalistic lighting | Charlotte Bruus Christensen (Cinematographer) | [IMDB](https://www.imdb.com/title/tt2671706/) |
+| Soul | 2020 | Animated contrast between reality and afterlife | Matt Aspbury, Ian Megibben (Directors of Photography) | [IMDB](https://www.imdb.com/title/tt2948372/) |
+| The Color Purple | 1985 | Period drama with warm southern lighting | Allen Daviau (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0088939/) |
+| Atlantics | 2019 | Atmospheric coastal imagery with otherworldly blue tones | Claire Mathon (Cinematographer) | [IMDB](https://www.imdb.com/title/tt10199586/) |
+| Daughters of the Dust | 1991 | Lyrical, sun-drenched historical imagery | Arthur Jafa (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0104057/) |
+| Do the Right Thing | 1989 | Vibrant saturated colors with heat-induced tension | Ernest Dickerson (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0097216/) |
+| Nope | 2022 | Wide vistas with night-to-day contrast | Hoyte van Hoytema (Cinematographer) | [IMDB](https://www.imdb.com/title/tt10954984/) |
+| Black Panther | 2018 | Afrofuturistic design with vibrant color palette | Rachel Morrison (Cinematographer) | [IMDB](https://www.imdb.com/title/tt1825683/) |
+
+## TV Series Inspirations
+
+| Series | Year | Visual Style | Key People | Reference |
+|--------|------|-------------|------------|-----------|
+| Mad Men | 2007-2015 | Period-accurate 60s aesthetic with rich contrast | Christopher Manley (Cinematographer) | [IMDB](https://www.imdb.com/title/tt0804503/) |
+| Euphoria | 2019- | Neon-lit youth culture with experimental techniques | Marcell Rév, Drew Daniels (Cinematographers) | [IMDB](https://www.imdb.com/title/tt8772296/) |
+| Lovecraft Country | 2020 | Horror-fantasy with period lighting and stylized effects | Robert McLachlan (Cinematographer) | [IMDB](https://www.imdb.com/title/tt6905686/) |
 
 ## Photography Inspirations
 
