@@ -118,11 +118,11 @@ This document provides references for the inspirations behind our ReShade preset
 
 ## Contemporary Digital Artists
 
-| Artist | Style | Portfolio | Additional Reference | Preset File |
-|--------|-------|----------|---------------------|-------------|
-| Dan Priestly | Matte finish editorial and advertising photography | [Dan Priestly](https://www.danpriestley.com/) | [Instagram](https://www.instagram.com/danpriestley) | Studio/Modern - Matte+ - Priestly |
-| Lois Greenfield | Dynamic dance photography with movement-freezing technique | [Lois Greenfield](https://www.loisgreenfield.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Lois_Greenfield) | Studio/Performance - Portrait Light |
-| Petra Kvålsvik Fisher | Modern fashion imagery with clean, commercial aesthetic | [Petra Fisher](https://www.petrafisherphotography.com/) | [Behance](https://www.behance.net/petrafisher) | Studio/Modern - Crush+ - Fisher |
+| Artist | Style | Portfolio | Preset File |
+|--------|-------|----------|-------------|
+| Dan Priestly ([Instagram](https://www.instagram.com/danpriestley)) | Matte finish editorial and advertising photography | [Dan Priestly](https://www.danpriestley.com/) | Studio/Modern - Matte+ - Priestly |
+| Lois Greenfield ([Wikipedia](https://en.wikipedia.org/wiki/Lois_Greenfield)) | Dynamic dance photography with movement-freezing technique | [Lois Greenfield](https://www.loisgreenfield.com/) | Studio/Performance - Portrait Light |
+| Petra Kvålsvik Fisher ([Behance](https://www.behance.net/petrafisher)) | Modern fashion imagery with clean, commercial aesthetic | [Petra Fisher](https://www.petrafisherphotography.com/) | Studio/Modern - Crush+ - Fisher |
 
 ## Visual Style References
 
