@@ -1,6 +1,6 @@
 # Aquitaine Studio - Preset References
 
-This document provides references for the inspirations behind our ReShade presets.
+
 
 ## Film Inspirations
 
