@@ -86,13 +86,25 @@ Enhances darker skin tones with warm or gray adjustments.
 | Preset Name       | Characteristics                                      |
 |-------------------|------------------------------------------------------|
 | Artistic Series   | Bold, colorful presets for creative expression.      |
-| Cinematic Series  | Rich color grading inspired by films like Moonlight. |
+| Cinematic Series  | Rich color grading inspired by films like Moonlight and cinematographers like Barry Jenkins and Bradford Young. |
+| Documentary Series | Authentic, respectful representation with rich warmth inspired by photographers like Deana Lawson. |
 | Dramatic Series   | High-contrast and shadow-focused effects.            |
 | Fashion Series    | High-contrast and vibrant styles for photography.    |
 | Natural Series    | Accurate color representation with minimal stylization. |
 | Poster Series     | High-impact promotional poster styles for character showcases. |
 | Stylized Series   | Distinctive color treatments for artistic expression. |
 | Vibrant Series    | Bold, saturated colors that enhance darker skin tones. |
+
+## AbstractLens Set
+
+Experimental, artistic presets that push beyond realism for creative expression.
+
+| Preset Name       | Characteristics                                      |
+|-------------------|------------------------------------------------------|
+| Geometric Series  | Angular, structured compositions with emphasis on shapes and patterns. |
+| GlitchArt Series  | Digital artifacts and distortion used creatively for aesthetic effect. |
+| LightPlay Series  | Creative manipulation of light sources, reflections, and refractions. |
+| Surreal Series    | Dreamlike imagery with unexpected juxtapositions and distorted reality. |
 
 ## Acknowledgements
 

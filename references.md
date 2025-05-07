@@ -103,6 +103,15 @@
 | [Steven Meisel](https://en.wikipedia.org/wiki/Steven_Meisel) | High fashion photography with cultural commentary | [Art + Commerce](https://www.artandcommerce.com/artists/photographers/Steven-Meisel) | Studio/Fashion - Busy+ - Meisel |
 | [Yousuf Karsh](https://en.wikipedia.org/wiki/Yousuf_Karsh) | Dramatic portrait lighting with psychological depth | [Karsh](https://karsh.org/) | Studio/Portrait - Black++ - Karsh |
 
+## Cinematographer Inspirations
+
+| Cinematographer | Known For | Style | Preset File |
+|-----------------|-----------|-------|-------------|
+| [Barry Jenkins](https://www.imdb.com/name/nm1503575/) | Moonlight, If Beale Street Could Talk | Warm, intimate lighting with careful attention to darker skin tones | True Hue/Cinematic - GoldenGlow+ - BarryJenkins |
+| [Bradford Young](https://www.imdb.com/name/nm1295054/) | Arrival, Selma, When They See Us | Naturalistic lighting with deep shadows that preserve darker skin detail | True Hue/Cinematic - NaturalContrast - BradfordYoung |
+| [Ava DuVernay](https://www.imdb.com/name/nm1148550/) | Selma, 13th, Queen Sugar | Clear, respectful portrayal with balanced warmth and naturalistic lighting | True Hue/Cinematic - BalancedWarm - AvaDuVernay |
+| [Deana Lawson](https://www.moma.org/artists/45278) | Fine art photography | Rich, warm documentary-style portraiture with careful attention to detail | True Hue/Documentary - RichWarm+ - DeanaLawson |
+
 ## Fine Art Inspirations
 
 | Artist | Period | Style | Preset File |
@@ -144,6 +153,11 @@
 | Portrait | Optimized for human subjects with careful attention to skin tones | Studio/Portrait presets<br/>Studio/Performance - Portrait Light |
 | Silhouette | Dramatic backlighting creating iconic silhouettes | Movie Night/Poster - Silhouette presets |
 | Warm | Golden hour inspired with amber/orange hues | Gameplay/Light - Atmosphere - Warm<br/>True Hue/Natural - Warm presets |
+| Abstract | Experimental styles with artistic distortion and non-photorealistic rendering | AbstractLens/ presets |
+| Geometric | Angular, structural compositions with emphasis on shapes and patterns | AbstractLens/Geometric - SharpNeutral - Cubist |
+| GlitchArt | Digital artifacts and distortion used creatively for aesthetic effect | AbstractLens/GlitchArt - CoolNoise+ - Databend |
+| Light Play | Creative manipulation of light sources, reflections and refractions | AbstractLens/LightPlay - RainbowPrism++ - Refraction |
+| Surreal | Dreamlike imagery with unexpected juxtapositions and distorted reality | AbstractLens/Surreal - ColorShift++ - MeltingClock |
 
 ## Acknowledgements
 
